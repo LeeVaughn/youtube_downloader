@@ -18,5 +18,3 @@ def download_audio(url):
 
 for url in urls:
     download_audio(url)
-
-# print('Video downloads complete.')
